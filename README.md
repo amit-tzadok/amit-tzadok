@@ -15,4 +15,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-tzadok&show_icons=true&locale=en&layout=compact" alt="amit-tzadok" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amit-tzadok&" alt="amit-tzadok" /></p>
