@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Amit</h1>
+<h1 align="center">Hi, I'm Amit</h1>
 <h3 align="center">Recent Computer Science graduate exploring AI, data, and development</h3>
 
-- 🌱 I’m currently learning **React, Kubernetes, and advanced AI techniques**
+- 🌱 I’m currently working on an AI-powered game in the Godot Engine**
 
 - 📫 How to reach me **amit.tzadok@icloud.com**
 
